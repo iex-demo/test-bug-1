@@ -2,5 +2,9 @@ name: test bug 1
 description: test test test
 itemType: insight
 tags: []
-creation: {}
-metadata: {}
+creation:
+  template: null
+  clonedFrom: null
+metadata:
+  team: null
+  publishedDate: null
