@@ -5,6 +5,8 @@ tags: []
 creation:
   template: null
   clonedFrom: null
+  __typename: InsightCreation
 metadata:
   team: null
   publishedDate: null
+  __typename: InsightMetadata
